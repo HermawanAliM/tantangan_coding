@@ -1,5 +1,4 @@
 // Penyelesain case return_negatif Cara 1 :
-
 // const makeNegative = num => {
 //   return num > 0 ? -num : num;
 // };

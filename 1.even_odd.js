@@ -1,7 +1,6 @@
 console.log("Hermawan Jeha");
 
 // Penyelesain case even_odd Cara 1 :
-
 // function evenOrOdd(number) {
 //  if (number % 2 == 0) {
 //   return(`${number}, is Even`);
@@ -11,9 +10,7 @@ console.log("Hermawan Jeha");
 // }
 
 // Penyelesain case even_odd Cara 2 :
-const evenOrOdd = number => {
-  return number % 2 == 0 ? `Even` : `Odd`
-};
+const evenOrOdd = number => number % 2 == 0 ? `Even` : `Odd`
 
 console.log(evenOrOdd(2));
 console.log(evenOrOdd(7));
